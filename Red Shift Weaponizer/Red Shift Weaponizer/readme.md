@@ -2,6 +2,9 @@
 Red Shift Weaponizer 1.0.0 Project Overview
 ============================================
 
+VIDEO EXPLANATION:
+https://youtu.be/TbOO08tgTIw
+
 This program allows the user to generate custom weapons for Red Shift, 
 the sci-fi tabletop RPG. It asks the user to input a series of options 
 via console using specific inputs to add components.
