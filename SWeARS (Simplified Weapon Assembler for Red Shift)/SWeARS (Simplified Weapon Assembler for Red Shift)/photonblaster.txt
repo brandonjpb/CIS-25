@@ -1,0 +1,5 @@
+==== WEAPON INFO ====
+Name      : Photon Blaster
+Damage    : 120
+Range     : 600
+Ammo Type : Energy
